@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm dais</h1>
-<h3 align="center">I am a programming enthusiast.</h3>
+<img src="https://count.getloli.com/get/@favolia?theme=rule34" alt="visitor.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=favolia&label=Profile%20views&color=0e75b6&style=flat" alt="favolia" /> </p>
 
