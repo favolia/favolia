@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm dais</h1>
-<img src="https://count.getloli.com/get/@favolia?theme=rule34" alt="visitor.svg">
+<img align="center" src="https://count.getloli.com/get/@favolia?theme=rule34" alt="visitor.svg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=favolia&label=Profile%20views&color=0e75b6&style=flat" alt="favolia" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=favolia&label=Profile%20views&color=0e75b6&style=flat" alt="favolia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=favolia" alt="favolia" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=favolia" alt="favolia" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript, NextJs and Laravel**
 
