@@ -17,9 +17,10 @@
 <a href="https://discord.gg/890649181230862376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="890649181230862376" height="30" width="40" /></a>
 </p>
 
-<p>Here's a list of my tech stack and skills:</p>
+<p>Here's a list of my tech stack and skills:</p> 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=favolia&show_icons=true&locale=en&layout=compact" alt="favolia" /></p>
