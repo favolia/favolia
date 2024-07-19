@@ -1,26 +1,59 @@
-<h1 align="center">Hi 👋, I'm dais</h1>
-<p align="center"><img align="center" src="https://count.getloli.com/get/@favolia?theme=rule34" alt="visitor.svg"></p>
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/98775120?v=4"  />
+</div>
 
-- 🌱 I’m currently learning **Typescript, NextJs and Laravel**
+###
 
-- 💬 Ask me about **Javascript, TailwindCss**
+<div align="center">
+  <a href="https://instagram.com/defavolia" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/890649181230862376" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
 
-- 📫 How to reach me **https://instagram.com/defavolia**
+###
 
-- ⚡ Fun fact **I love caramel :D**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=favolia.favolia&left_color=black&right_color=darkgray"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/defavolia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="defavolia" height="30" width="40" /></a>
-<!-- <a href="https://discord.gg/890649181230862376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="890649181230862376" height="30" width="40" /></a>
-</p> -->
+###
 
-### Here's a list of my tech stack and skills:
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<h1 align="center">Hello World!👋</h1>
 
----
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=favolia&show_icons=true&locale=en&layout=compact" alt="favolia" /></p>
+<h3 align="left">👩‍💻  About Me</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=favolia&show_icons=true&locale=en" alt="favolia" /></p>
+###
+
+<h4 align="left">I'm Dais from South Sulawesi<br><br>- 📚 I'm currently learning Next.js, Typescript and Three.js<br>- ⚡ In my spare time, I sometimes create websites to explore the latest technology and share about programming.</h4>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=favolia&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=favolia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
