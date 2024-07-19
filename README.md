@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/98775120?v=4"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBndXF2dzYzNHNuMDZ6am4yNjAwaGNzem96OXBiM2VkbzY5Zmd3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5hrTWkvO6dFodC8hnl/giphy.webp"  />
 </div>
 
 ###
@@ -29,7 +29,7 @@
 
 ###
 
-<h4 align="left">I'm Dais from South Sulawesi<br><br>- 📚 I'm currently learning Next.js, Typescript and Three.js<br>- ⚡ In my spare time, I sometimes create websites to explore the latest technology and share about programming.</h4>
+<p align="left">I'm Dais from South Sulawesi<br><br>- 📚 I'm currently learning Next.js, Typescript and Three.js<br>- ⚡ In my spare time, I sometimes create websites to explore the latest technology and share about programming.</p>
 
 ###
 
