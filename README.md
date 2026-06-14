@@ -12,8 +12,8 @@
 
 ## Projects
 
-- 📝 **[Skena](https://www.skena.co.id/)** - DIGITAL CREATIVE & MARKETING GROWTH PARTNER
-- ⚡ **[MOOI Filters](https://mooifilters.com/)** - Premium and cheapest shower filter in bali!
+- 🚀 **[Skena](https://www.skena.co.id/)** - DIGITAL CREATIVE & MARKETING GROWTH PARTNER
+- 🚿 **[MOOI Filters](https://mooifilters.com/)** - Premium and cheapest shower filter in bali!
 
 ## GitHub Activity
 
