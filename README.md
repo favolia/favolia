@@ -1,59 +1,36 @@
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBndXF2dzYzNHNuMDZ6am4yNjAwaGNzem96OXBiM2VkbzY5Zmd3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5hrTWkvO6dFodC8hnl/giphy.webp"  />
-</div>
+# Hi, I'm Dais 👋
 
-###
+**Makassar** | **Frontend Engineer**
 
-<div align="center">
-  <a href="https://instagram.com/defavolia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/890649181230862376" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-###
+> Blending logic and aesthetics into interactive interfaces.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=favolia.favolia&left_color=black&right_color=darkgray"  />
-</div>
+## Projects
 
-###
+- 📝 **[Skena](https://www.skena.co.id/)** - DIGITAL CREATIVE & MARKETING GROWTH PARTNER
+- ⚡ **[MOOI Filters](https://mooifilters.com/)** - Premium and cheapest shower filter in bali!
 
-<h1 align="center">Hello World!👋</h1>
+## GitHub Activity
 
-###
+![GitHub Contribution Graph](https://ghchart.rshah.org/favolia)
 
-<h3 align="left">👩‍💻  About Me</h3>
+## What I'm Doing
 
-###
+- **Crafting Modern Interfaces** - Building fast, responsive, and interactive web applications using **React** and **Next.js**.
+- **Designing UI Systems** - Creating beautiful, accessible, and consistent components with **Tailwind CSS** and **shadcn/ui**.
+- **Writing Robust Code** - Ensuring type safety and scalable architecture across all projects with **TypeScript**.
 
-<p align="left">I'm Dais from South Sulawesi<br><br>- 📚 I'm currently learning Next.js, Typescript and Three.js<br>- ⚡ In my spare time, I sometimes create websites to explore the latest technology and share about programming.</p>
+## Connect
 
-###
+[![x](https://img.shields.io/badge/-@defavolia-black?style=flat-square&logo=x&logoColor=white)](https://x.com/defavolia)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/daisynchronous)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/favolia)
 
-<h3 align="left">🛠 Language and tools</h3>
+### Philosophy
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=favolia&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=favolia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+> "Logic meets aesthetics" - An interface should be as elegant under the hood as it is on the screen. Build smart abstractions, leverage modern tooling, and never compromise on performance or design.
