@@ -28,7 +28,7 @@
 ## Connect
 
 [![x](https://img.shields.io/badge/-@defavolia-black?style=flat-square&logo=x&logoColor=white)](https://x.com/defavolia)
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/daisynchronous)
+[![Instagram](https://img.shields.io/badge/logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/daisynchronous)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/favolia)
 
 ### Philosophy
